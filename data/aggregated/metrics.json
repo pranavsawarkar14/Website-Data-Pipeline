@@ -1,0 +1,109 @@
+{
+  "computation_time": "2026-01-19T23:10:05.750829",
+  "source_file": "data\\processed\\standardized.json",
+  "input_summary": {
+    "total_domains": 9,
+    "total_records": 36,
+    "records_by_section": {
+      "navbar": 9,
+      "homepage": 9,
+      "footer": 9,
+      "case_study": 9
+    },
+    "domains_processed": [
+      "apache.org",
+      "docker.com",
+      "github.com",
+      "linux.org",
+      "mozilla.org",
+      "nginx.com",
+      "processed",
+      "python.org",
+      "stackoverflow.com"
+    ],
+    "validation_errors": 0
+  },
+  "case_study_analysis": {
+    "total_websites": 9,
+    "websites_with_case_studies": 4,
+    "websites_without_case_studies": 5,
+    "case_study_percentage": 44.44,
+    "average_case_study_length": 5777.75
+  },
+  "activity_analysis": {
+    "total_websites": 9,
+    "active_websites": 9,
+    "inactive_websites": 0,
+    "active_percentage": 100.0
+  },
+  "content_length_by_section": {
+    "navbar": {
+      "average_length": 877.89,
+      "min_length": 0,
+      "max_length": 2572,
+      "total_records": 9,
+      "non_empty_records": 8,
+      "empty_records": 1,
+      "non_empty_percentage": 88.89
+    },
+    "homepage": {
+      "average_length": 3024.0,
+      "min_length": 0,
+      "max_length": 8093,
+      "total_records": 9,
+      "non_empty_records": 8,
+      "empty_records": 1,
+      "non_empty_percentage": 88.89
+    },
+    "footer": {
+      "average_length": 572.67,
+      "min_length": 0,
+      "max_length": 1040,
+      "total_records": 9,
+      "non_empty_records": 7,
+      "empty_records": 2,
+      "non_empty_percentage": 77.78
+    },
+    "case_study": {
+      "average_length": 2567.89,
+      "min_length": 0,
+      "max_length": 10538,
+      "total_records": 9,
+      "non_empty_records": 4,
+      "empty_records": 5,
+      "non_empty_percentage": 44.44
+    }
+  },
+  "additional_metrics": {
+    "total_records": 36,
+    "unique_websites": 9,
+    "total_content_length": 63382,
+    "average_content_length_overall": 1760.61,
+    "non_empty_records": 27,
+    "empty_records": 9,
+    "content_fill_rate": 75.0,
+    "section_distribution": {
+      "navbar": 9,
+      "homepage": 9,
+      "footer": 9,
+      "case_study": 9
+    },
+    "website_distribution": {
+      "https://www.apache.org": 4,
+      "https://www.docker.com": 4,
+      "https://www.github.com": 4,
+      "https://www.linux.org": 4,
+      "https://www.mozilla.org": 4,
+      "https://www.nginx.com": 4,
+      "https://www.processed": 4,
+      "https://www.python.org": 4,
+      "https://www.stackoverflow.com": 4
+    },
+    "crawl_period": {
+      "earliest": "2026-01-19T22:17:16.455088",
+      "latest": "2026-01-19T22:18:00.424697",
+      "total_timestamps": 32
+    }
+  },
+  "validation_passed": true
+}

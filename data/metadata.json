@@ -1,0 +1,322 @@
+{
+  "https://www.python.org": {
+    "url": "https://www.python.org",
+    "domain": "python.org",
+    "crawl_time": "2026-01-19T22:17:16.455088",
+    "timestamp": 1768841236.455088,
+    "status": "completed",
+    "pages": {
+      "homepage": {
+        "url": "https://www.python.org",
+        "http_status": 200,
+        "file_path": "data\\raw\\python.org\\homepage.html",
+        "content_length": 48073
+      },
+      "case_study": {
+        "url": "https://www.python.org/success-stories/",
+        "http_status": 200,
+        "file_path": "data\\raw\\python.org\\case_study.html",
+        "content_length": 44434
+      },
+      "internal_1": {
+        "url": "https://www.python.org#content",
+        "http_status": 200,
+        "file_path": "data\\raw\\python.org\\internal_page_1.html",
+        "content_length": 48073
+      },
+      "internal_2": {
+        "url": "https://www.python.org#python-network",
+        "http_status": 200,
+        "file_path": "data\\raw\\python.org\\internal_page_2.html",
+        "content_length": 48073
+      }
+    },
+    "components": {
+      "navbar": {
+        "file_path": "data\\raw\\python.org\\navbar.html",
+        "content_length": 1229
+      },
+      "footer": {
+        "file_path": "data\\raw\\python.org\\footer.html",
+        "content_length": 9130
+      }
+    },
+    "pages_crawled": 4,
+    "components_extracted": 2
+  },
+  "https://www.apache.org": {
+    "url": "https://www.apache.org",
+    "domain": "apache.org",
+    "crawl_time": "2026-01-19T22:17:21.914227",
+    "timestamp": 1768841241.914227,
+    "status": "completed",
+    "pages": {
+      "homepage": {
+        "url": "https://www.apache.org",
+        "http_status": 200,
+        "file_path": "data\\raw\\apache.org\\homepage.html",
+        "content_length": 49010
+      },
+      "internal_1": {
+        "url": "https://www.apache.org/foundation/policies/conduct",
+        "http_status": 200,
+        "file_path": "data\\raw\\apache.org\\internal_page_1.html",
+        "content_length": 33765
+      },
+      "internal_2": {
+        "url": "https://www.apache.org/community-resources/",
+        "http_status": 200,
+        "file_path": "data\\raw\\apache.org\\internal_page_2.html",
+        "content_length": 26648
+      }
+    },
+    "components": {
+      "navbar": {
+        "file_path": "data\\raw\\apache.org\\navbar.html",
+        "content_length": 5616
+      },
+      "footer": {
+        "file_path": "data\\raw\\apache.org\\footer.html",
+        "content_length": 6635
+      }
+    },
+    "pages_crawled": 3,
+    "components_extracted": 2
+  },
+  "https://www.mozilla.org": {
+    "url": "https://www.mozilla.org",
+    "domain": "mozilla.org",
+    "crawl_time": "2026-01-19T22:17:26.537159",
+    "timestamp": 1768841246.537159,
+    "status": "completed",
+    "pages": {
+      "homepage": {
+        "url": "https://www.mozilla.org",
+        "http_status": 200,
+        "file_path": "data\\raw\\mozilla.org\\homepage.html",
+        "content_length": 45653
+      },
+      "internal_1": {
+        "url": "https://www.mozilla.org/fi/privacy/websites/cookie-settings/",
+        "http_status": 200,
+        "file_path": "data\\raw\\mozilla.org\\internal_page_1.html",
+        "content_length": 46709
+      },
+      "internal_2": {
+        "url": "https://www.mozilla.org/fi/",
+        "http_status": 200,
+        "file_path": "data\\raw\\mozilla.org\\internal_page_2.html",
+        "content_length": 103529
+      }
+    },
+    "components": {
+      "navbar": {
+        "file_path": "data\\raw\\mozilla.org\\navbar.html",
+        "content_length": 9202
+      },
+      "footer": {
+        "file_path": "data\\raw\\mozilla.org\\footer.html",
+        "content_length": 8686
+      }
+    },
+    "pages_crawled": 3,
+    "components_extracted": 2
+  },
+  "https://www.linux.org": {
+    "url": "https://www.linux.org",
+    "domain": "linux.org",
+    "crawl_time": "2026-01-19T22:17:32.248503",
+    "timestamp": 1768841252.248503,
+    "status": "completed",
+    "pages": {
+      "homepage": {
+        "url": "https://www.linux.org",
+        "http_status": 200,
+        "file_path": "data\\raw\\linux.org\\homepage.html",
+        "content_length": 146828
+      }
+    },
+    "components": {
+      "navbar": {
+        "file_path": "data\\raw\\linux.org\\navbar.html",
+        "content_length": 8027
+      },
+      "footer": {
+        "file_path": "data\\raw\\linux.org\\footer.html",
+        "content_length": 2350
+      }
+    },
+    "pages_crawled": 1,
+    "components_extracted": 2
+  },
+  "https://www.nginx.com": {
+    "url": "https://www.nginx.com",
+    "domain": "nginx.com",
+    "crawl_time": "2026-01-19T22:17:37.698683",
+    "timestamp": 1768841257.698683,
+    "status": "completed",
+    "pages": {
+      "homepage": {
+        "url": "https://www.nginx.com",
+        "http_status": 200,
+        "file_path": "data\\raw\\nginx.com\\homepage.html",
+        "content_length": 306440
+      },
+      "case_study": {
+        "url": "https://www.nginx.com/solutions/use-cases/multi-cloud-networking",
+        "http_status": 200,
+        "file_path": "data\\raw\\nginx.com\\case_study.html",
+        "content_length": 235497
+      },
+      "internal_1": {
+        "url": "https://www.nginx.com/solutions",
+        "http_status": 200,
+        "file_path": "data\\raw\\nginx.com\\internal_page_1.html",
+        "content_length": 306440
+      },
+      "internal_2": {
+        "url": "https://www.nginx.com/solutions/web-app-and-api-protection",
+        "http_status": 200,
+        "file_path": "data\\raw\\nginx.com\\internal_page_2.html",
+        "content_length": 236200
+      }
+    },
+    "components": {
+      "navbar": {
+        "file_path": "data\\raw\\nginx.com\\navbar.html",
+        "content_length": 16290
+      }
+    },
+    "pages_crawled": 4,
+    "components_extracted": 1
+  },
+  "https://www.github.com": {
+    "url": "https://www.github.com",
+    "domain": "github.com",
+    "crawl_time": "2026-01-19T22:17:46.826517",
+    "timestamp": 1768841266.826517,
+    "status": "completed",
+    "pages": {
+      "homepage": {
+        "url": "https://www.github.com",
+        "http_status": 200,
+        "file_path": "data\\raw\\github.com\\homepage.html",
+        "content_length": 564165
+      },
+      "case_study": {
+        "url": "https://www.github.com/customer-stories/duolingo",
+        "http_status": 200,
+        "file_path": "data\\raw\\github.com\\case_study.html",
+        "content_length": 218293
+      },
+      "internal_1": {
+        "url": "https://www.github.com#start-of-content",
+        "http_status": 200,
+        "file_path": "data\\raw\\github.com\\internal_page_1.html",
+        "content_length": 307340
+      },
+      "internal_2": {
+        "url": "https://www.github.com/login",
+        "http_status": 200,
+        "file_path": "data\\raw\\github.com\\internal_page_2.html",
+        "content_length": 43406
+      }
+    },
+    "components": {
+      "navbar": {
+        "file_path": "data\\raw\\github.com\\navbar.html",
+        "content_length": 50754
+      },
+      "footer": {
+        "file_path": "data\\raw\\github.com\\footer.html",
+        "content_length": 27547
+      }
+    },
+    "pages_crawled": 4,
+    "components_extracted": 2
+  },
+  "https://www.stackoverflow.com": {
+    "url": "https://www.stackoverflow.com",
+    "domain": "stackoverflow.com",
+    "crawl_time": "2026-01-19T22:17:53.009841",
+    "timestamp": 1768841273.009841,
+    "status": "completed",
+    "pages": {
+      "homepage": {
+        "url": "https://www.stackoverflow.com",
+        "http_status": 200,
+        "file_path": "data\\raw\\stackoverflow.com\\homepage.html",
+        "content_length": 237938
+      },
+      "internal_1": {
+        "url": "https://www.stackoverflow.com#content",
+        "http_status": 200,
+        "file_path": "data\\raw\\stackoverflow.com\\internal_page_1.html",
+        "content_length": 237276
+      },
+      "internal_2": {
+        "url": "https://www.stackoverflow.com/questions",
+        "http_status": 200,
+        "file_path": "data\\raw\\stackoverflow.com\\internal_page_2.html",
+        "content_length": 237593
+      }
+    },
+    "components": {
+      "navbar": {
+        "file_path": "data\\raw\\stackoverflow.com\\navbar.html",
+        "content_length": 4144
+      },
+      "footer": {
+        "file_path": "data\\raw\\stackoverflow.com\\footer.html",
+        "content_length": 7475
+      }
+    },
+    "pages_crawled": 3,
+    "components_extracted": 2
+  },
+  "https://www.docker.com": {
+    "url": "https://www.docker.com",
+    "domain": "docker.com",
+    "crawl_time": "2026-01-19T22:18:00.424697",
+    "timestamp": 1768841280.424697,
+    "status": "completed",
+    "pages": {
+      "homepage": {
+        "url": "https://www.docker.com",
+        "http_status": 200,
+        "file_path": "data\\raw\\docker.com\\homepage.html",
+        "content_length": 343668
+      },
+      "case_study": {
+        "url": "https://www.docker.com/customer-stories/",
+        "http_status": 200,
+        "file_path": "data\\raw\\docker.com\\case_study.html",
+        "content_length": 245172
+      },
+      "internal_1": {
+        "url": "https://www.docker.com/solutions/docker-ai/",
+        "http_status": 200,
+        "file_path": "data\\raw\\docker.com\\internal_page_1.html",
+        "content_length": 282635
+      },
+      "internal_2": {
+        "url": "https://www.docker.com/products/docker-offload/",
+        "http_status": 200,
+        "file_path": "data\\raw\\docker.com\\internal_page_2.html",
+        "content_length": 207437
+      }
+    },
+    "components": {
+      "navbar": {
+        "file_path": "data\\raw\\docker.com\\navbar.html",
+        "content_length": 52339
+      },
+      "footer": {
+        "file_path": "data\\raw\\docker.com\\footer.html",
+        "content_length": 13381
+      }
+    },
+    "pages_crawled": 4,
+    "components_extracted": 2
+  }
+}
